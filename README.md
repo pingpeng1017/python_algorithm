@@ -1,1 +1,1 @@
-Aiffel Study
+AIFFEL Study
